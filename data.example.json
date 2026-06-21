@@ -1,0 +1,8 @@
+[
+    {"username": "juan_perez", "email": "juan.perez@example.com", "password": "Ju@nP3r3z!"},
+    {"username": "maria_garcia", "email": "maria.garcia@example.com", "password": "M@r1a2024"},
+    {"username": "carlos_rojas", "email": "carlos.rojas@example.com", "password": "C@rlos.R0j@s"},
+    {"username": "ana_martinez", "email": "ana.martinez@example.com", "password": "An@Mtz#2024"},
+    {"username": "laura_diaz", "email": "laura.diaz@example.com", "password": "L4ur@D!az"},
+    {"username": "luis_sanchez", "email": "luis.sanchez@example.com", "password": "Lui$S4nch3z"}
+]

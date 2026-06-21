@@ -1,0 +1,26 @@
+{
+  "name": "zhang-shanru-chat-app",
+  "version": "1.0.0",
+  "description": "张善茹 Chat App - a mobile-friendly real-time chat application built with React, Node.js, Socket.io and SQLite.",
+  "keywords": [
+    "real-time",
+    "socket",
+    "node",
+    "typescript"
+  ],
+  "homepage": "https://github.com/aaaaafdd",
+  "bugs": {
+    "url": "https://github.com/aaaaafdd/zhang-shanru-chat-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaaaafdd/zhang-shanru-chat-app.git"
+  },
+  "license": "ISC",
+  "author": "张善茹",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
